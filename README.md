@@ -43,3 +43,8 @@ The only cloumns that were changed were those pertaining to percentages. As a re
 
 
 ## Summary
+
+There were only three changes, not four; the Passing Math %, the Passing Reading %, and the Passing Overall %. THS could make it seems as if their school is doing much better than it actually is if they removed 9th graders scores from their data. I don't see how this would benefit the school at all, I can only see this being done to protect the prinicpal's ego. It would be much more beneficial for the school to be honest about their scores so that their students have a chance to get the help they need. 
+
+
+On another note, I noticed that the data showed the bigger a school was, the lower its pass percentage was across the board. Increased spending did not help raise these scores either. This would indicate that just dumping a lot of money into schools does not help students learn. Instead, the data seems to suggest smaller class sizes are the key to helping student performance improve. Further research would need to be done to test this theory, but it is something the school board should consider. 
