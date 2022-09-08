@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-
+In this module we helped Maria, a City Schools data analyst, analyze the data from student funding and standardized test scores. We mapped out trends and each school's performance to help the school board and superintendent makes decisions for the coming year's budget and priority lists. 
 ## Results
 
 1. __How is the district summary affected?__
